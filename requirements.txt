@@ -1,0 +1,4 @@
+# requirements.txt
+streamlit>=1.38
+extra-streamlit-components>=0.1.60
+PyJWT>=2.8.0

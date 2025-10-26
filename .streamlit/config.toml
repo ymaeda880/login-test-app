@@ -1,0 +1,9 @@
+# .streamlit/config.toml
+# プロジェクト名：login_test_app
+
+[server]
+port = 8592
+address = "0.0.0.0"
+baseUrlPath = "/login_test"
+enableCORS = false
+headless = true
